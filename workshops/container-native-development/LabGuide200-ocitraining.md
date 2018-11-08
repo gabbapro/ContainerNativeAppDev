@@ -74,11 +74,11 @@ export KUBECONFIG=~/.kube/config***
 
 and you can test it by running the commands:
 
-***kubectl cluster-info*** 
+**kubectl cluster-info** 
 
-**kubectl get po***
+**kubectl get po**
 
-**kubectl get svc***
+**kubectl get svc**
 
 ## Configure and Run Wercker Deployment Pipelines (Optional)
 
